@@ -60,7 +60,9 @@ Add additional notes about how to deploy this on a live system
 
 ## Authors
 
-* **Ciaran Mescall** - *Initial work* - [Cmdmescall](https://github.com/cmdmescall)
+* **Ciaran Mescall** - [Cmdmescall](https://github.com/cmdmescall)
+* **Siân Danforth** - [Siandanforth](https://github.com/siandanforth)
+* **Jasmine Lloyd** - [ProjectAlpha2017](https://github.com/ProjectAlpha2017)
 
 ## License
 
