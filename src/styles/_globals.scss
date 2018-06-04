@@ -1,0 +1,14 @@
+a {
+    &:link, &:visited {
+        text-decoration: none;
+    }
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 80vh;
+    width: 70vh;
+}
