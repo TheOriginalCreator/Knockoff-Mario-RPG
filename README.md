@@ -62,7 +62,7 @@ Add additional notes about how to deploy this on a live system
 
 * **Ciaran Mescall** - [Cmdmescall](https://github.com/cmdmescall)
 * **Siân Danforth** - [Siandanforth](https://github.com/siandanforth)
-* **Jasmine Lloyd** - [ProjectAlpha2017](https://github.com/ProjectAlpha2017)
+* **Jasmine Lloyd** - [TheOriginalCreator](https://github.com/TheOriginalCreator)
 
 ## License
 
